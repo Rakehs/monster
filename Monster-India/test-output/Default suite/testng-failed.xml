@@ -8,7 +8,7 @@
           <include name="failedScreenshot"/>
           <include name="setUpSuite"/>
           <include name="startUp"/>
-          <include name="login" invocation-numbers="0"/>
+          <include name="login" invocation-numbers="1 2"/>
         </methods>
       </class> <!-- com.monster.tests.LoginTest -->
     </classes>

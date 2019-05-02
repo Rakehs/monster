@@ -8,7 +8,7 @@ public class ConfigDataProvider {
 	Properties pro;
 	public ConfigDataProvider()
 	{
-		File src=new File("E:\\eclipse\\MyWorkSpace\\Monster-India\\src\\main\\java\\Configuration\\config.properties");
+		File src=new File("C:\\Users\\Work Station\\git\\monster\\Monster-India\\src\\main\\java\\Configuration\\config.properties");
 		try {
 			FileInputStream fis=new FileInputStream(src);
 			pro=new Properties();
